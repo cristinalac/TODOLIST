@@ -1,0 +1,4 @@
+/* Estilos para tareas completadas */
+.completada {
+  text-decoration: line-through;
+}
